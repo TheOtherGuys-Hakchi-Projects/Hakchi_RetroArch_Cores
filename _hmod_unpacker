@@ -1,0 +1,18 @@
+#!/bin/bash
+echo "Bulk Hmod uncompressor and processor v1.0.0"
+echo "***********************************************"
+FILES=$(pwd)/*
+for f in $FILES
+do
+  filename_var=$(echo "$f" | rev | cut -d"/" -f1 | rev)
+  echo $filename_var
+  echo "***********************************************"
+  echo "Processing $f file..."
+  mkdir $(pwd)/$filename_var
+  cp $f $(pwd)/$filename_var/
+  cd $(pwd)/$filename_var/
+  tar -xvf $filename_var
+  rm $filename_var
+  cd ..
+  echo "***********************************************"
+done

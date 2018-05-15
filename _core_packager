@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "Bulk Core packager and processor v1.0.0"
+echo "***********************************************"
+mkdir -p $(pwd)/out
+FILES=$(pwd)/CORE_*
+for f in $FILES
+do
+  filename_var=$(echo "$f" | rev | cut -d"/" -f1 | rev)
+  echo $filename_var
+  echo "***********************************************"
+  echo "Processing $f..."
+  cd $f
+  tar -czvf "../out/$filename_var" *
+  cd ..
+  echo "***********************************************"
+done

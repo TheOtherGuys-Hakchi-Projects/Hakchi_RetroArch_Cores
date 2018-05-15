@@ -32,7 +32,6 @@ fi
 if [ "$extension" = "sfrom" ]; then
   filename_str="$filebase.sfc"
   getSfrom "$filename" > "$filename_str"
-  rm -f "$filename"
   setFileName "$filename_str"
 fi
 
