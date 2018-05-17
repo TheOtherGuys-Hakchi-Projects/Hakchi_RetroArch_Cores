@@ -1,6 +1,6 @@
 -----------------------
 Name: Game Music Emu 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Game Music Emu Core for RetroArch ===

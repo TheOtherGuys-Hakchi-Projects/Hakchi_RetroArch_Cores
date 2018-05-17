@@ -1,6 +1,6 @@
 -----------------------
 Name: VirtualJaguar 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === VirtualJaguar Core for RetroArch ===

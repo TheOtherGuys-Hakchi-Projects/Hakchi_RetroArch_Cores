@@ -1,6 +1,6 @@
 -----------------------
 Name: Theodore 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Theodore Core for RetroArch ===

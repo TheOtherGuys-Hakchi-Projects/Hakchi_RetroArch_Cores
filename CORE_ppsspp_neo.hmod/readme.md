@@ -1,6 +1,6 @@
 -----------------------
 Name: PPSSPP Neo 
-Creator: Libretro
+Creator: KMFDManic/madmonkey/'TheOtherGuys'
 Category: RetroArch Cores
 -----------------------
 === PPSSPP Neo Core for RetroArch ===

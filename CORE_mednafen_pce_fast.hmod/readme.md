@@ -1,6 +1,6 @@
 -----------------------
 Name: Mednafen PCE Fast 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mednafen PCE Fast Core for RetroArch ===

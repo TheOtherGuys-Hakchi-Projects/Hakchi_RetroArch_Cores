@@ -1,6 +1,6 @@
 -----------------------
 Name: Freej2ME 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === FreeJ2ME Core for RetroArch ===

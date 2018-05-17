@@ -1,6 +1,6 @@
 -----------------------
 Name: Mednafen NGP 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mednafen NGP Core for RetroArch ===

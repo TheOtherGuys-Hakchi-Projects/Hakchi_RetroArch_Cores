@@ -1,6 +1,6 @@
 -----------------------
 Name: XRick 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === XRick Core for RetroArch ===

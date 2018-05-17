@@ -1,6 +1,6 @@
 -----------------------
 Name: MAME 2003 
-Creator: Libretro
+Creator: KMFDManic/gpstar/madmonkey
 Category: RetroArch Cores
 -----------------------
 === MAME2003 Core for RetroArch ===

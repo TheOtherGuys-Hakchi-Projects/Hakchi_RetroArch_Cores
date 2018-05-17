@@ -1,6 +1,6 @@
 -----------------------
 Name: Handy 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Handy Core for RetroArch ===

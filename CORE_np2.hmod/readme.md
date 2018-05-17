@@ -1,6 +1,6 @@
 -----------------------
 Name: NP2 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === NekoP2 core for RetroArch ===

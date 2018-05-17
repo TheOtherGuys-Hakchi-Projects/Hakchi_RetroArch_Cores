@@ -1,6 +1,6 @@
 -----------------------
 Name: Pokemon Mini 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Pokemon Mini Core for RetroArch ===

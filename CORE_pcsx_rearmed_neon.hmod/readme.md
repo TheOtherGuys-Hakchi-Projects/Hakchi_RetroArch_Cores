@@ -1,6 +1,6 @@
 -----------------------
 Name: PCSX ReARMed Neon 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 ==== PCSX ReARMed Neon Core for RetroArch ===

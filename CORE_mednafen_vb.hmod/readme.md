@@ -1,6 +1,6 @@
 -----------------------
 Name: Mednafen Virtual Boy 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mednafen/Beetle Virtual Boy Core for RetroArch ===

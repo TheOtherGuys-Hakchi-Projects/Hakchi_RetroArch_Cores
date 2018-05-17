@@ -1,6 +1,6 @@
 -----------------------
 Name: px68K 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === px68K Core for RetroArch ===

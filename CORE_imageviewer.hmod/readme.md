@@ -1,6 +1,6 @@
 -----------------------
 Name: ImageViewer 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === ImageViewer Core for RetroArch ===

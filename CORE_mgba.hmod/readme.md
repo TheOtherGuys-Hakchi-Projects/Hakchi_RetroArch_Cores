@@ -1,6 +1,6 @@
 -----------------------
 Name: mGBA 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === mGBA Core for RetroArch ===

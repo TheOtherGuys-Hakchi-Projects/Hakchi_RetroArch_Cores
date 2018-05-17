@@ -1,6 +1,6 @@
 -----------------------
 Name: FBA 2016 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Final Burn Alpha 2016 Core for RetroArch ===

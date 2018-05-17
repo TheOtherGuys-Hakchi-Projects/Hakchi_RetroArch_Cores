@@ -1,6 +1,6 @@
 -----------------------
 Name: P-UAE 
-Creator: Libretro
+Creator: KMFDManic/madmonkey/qclart
 Category: RetroArch Cores
 -----------------------
 === P-UAE Core for RetroArch ===

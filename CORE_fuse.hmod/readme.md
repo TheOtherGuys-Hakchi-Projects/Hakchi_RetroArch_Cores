@@ -1,6 +1,6 @@
 -----------------------
 Name: FUSE 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === FUSE Core for RetroArch ===

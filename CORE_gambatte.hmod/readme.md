@@ -1,6 +1,6 @@
 -----------------------
 Name: Gambatte 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Gambatte Core for RetroArch ===

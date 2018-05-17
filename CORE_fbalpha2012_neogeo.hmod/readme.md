@@ -1,6 +1,6 @@
 -----------------------
 Name: FBA 2012 Neo-Geo 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Final Burn Alpha 2012 Neo-Geo Core for RetroArch ===

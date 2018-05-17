@@ -1,6 +1,6 @@
 -----------------------
 Name: Caprice32 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Caprice32 Core for RetroArch ===

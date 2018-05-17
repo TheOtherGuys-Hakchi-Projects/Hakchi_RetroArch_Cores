@@ -1,6 +1,6 @@
 -----------------------
 Name: fMSX 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === fMSX Core for RetroArch ===

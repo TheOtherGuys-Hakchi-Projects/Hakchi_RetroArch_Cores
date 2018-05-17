@@ -1,6 +1,6 @@
 -----------------------
 Name: Lutro 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Lutro Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: SNES9x2005 
-Creator: Libretro
+Creator: KMFDManic/madmonkey
 Category: RetroArch Cores
 -----------------------
 === SNES9x2005 Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: FBA 2012 CPS3 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Final Burn Alpha 2012 CPS3 Core for RetroArch ===

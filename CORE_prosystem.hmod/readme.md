@@ -1,6 +1,6 @@
 -----------------------
 Name: ProSystem 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === ProSystem Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: Hatari 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Hatari Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: VBA-M 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === VBA-M core for RetroArch ===

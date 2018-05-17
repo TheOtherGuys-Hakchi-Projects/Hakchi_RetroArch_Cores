@@ -1,6 +1,6 @@
 -----------------------
 Name: SNES9x2016 
-Creator: Libretro
+Creator: KMFDManic/madmonkey
 Category: RetroArch Cores
 -----------------------
 === SNES9x2016 Core for RetroArch ===

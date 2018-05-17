@@ -1,6 +1,6 @@
 -----------------------
 Name: 4DO 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === 4DO Core for RetroArch ===

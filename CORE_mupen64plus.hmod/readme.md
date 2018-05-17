@@ -1,6 +1,6 @@
 -----------------------
 Name: Mupen64Plus 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mupen64Plus Core for RetroArch ===
