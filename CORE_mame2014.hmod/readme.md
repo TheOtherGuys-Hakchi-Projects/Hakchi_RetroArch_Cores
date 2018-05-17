@@ -1,6 +1,6 @@
 -----------------------
 Name: MAME 2014 
-Creator: Libretro
+Creator: KMFDManic/gpstar
 Category: RetroArch Cores
 -----------------------
 === MAME2014 Core for RetroArch ===

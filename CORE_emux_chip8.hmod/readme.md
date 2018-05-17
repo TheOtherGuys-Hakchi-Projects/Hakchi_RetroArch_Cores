@@ -1,6 +1,6 @@
 -----------------------
 Name: Emux CHIP-8 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Emux CHIP-8 Core for RetroArch ===

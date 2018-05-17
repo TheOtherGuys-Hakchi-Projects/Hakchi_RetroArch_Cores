@@ -1,6 +1,6 @@
 -----------------------
 Name: PicoDrive 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === PicoDrive Core for RetroArch ===

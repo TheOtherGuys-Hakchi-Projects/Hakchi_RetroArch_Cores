@@ -1,6 +1,6 @@
 -----------------------
 Name: Genesis Plus GX 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Genesis Plus GX Core for RetroArch ===

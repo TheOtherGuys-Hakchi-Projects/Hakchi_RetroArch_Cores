@@ -1,6 +1,6 @@
 -----------------------
 Name: O2EM 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === O2EM Core for RetroArch ===

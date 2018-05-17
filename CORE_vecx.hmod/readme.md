@@ -1,6 +1,6 @@
 -----------------------
 Name: Vecx 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Vecx Core for RetroArch ===

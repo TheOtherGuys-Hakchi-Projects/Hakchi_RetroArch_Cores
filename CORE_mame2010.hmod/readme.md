@@ -1,6 +1,6 @@
 -----------------------
 Name: MAME 2010 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === MAME2010 Core for RetroArch ===

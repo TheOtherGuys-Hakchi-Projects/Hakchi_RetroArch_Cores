@@ -1,6 +1,6 @@
 -----------------------
 Name: FBA 2012 CPS2 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Final Burn Alpha 2012 CPS2 Core for RetroArch ===

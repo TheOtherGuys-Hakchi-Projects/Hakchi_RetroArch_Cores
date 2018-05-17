@@ -1,6 +1,6 @@
 -----------------------
 Name: gpSP 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === gpSP Core for RetroArch ===

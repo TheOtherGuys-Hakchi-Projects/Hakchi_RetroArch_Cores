@@ -1,6 +1,6 @@
 -----------------------
 Name: Mednafen WonderSwan 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mednafen/Beetle WonderSwan Core for RetroArch ===

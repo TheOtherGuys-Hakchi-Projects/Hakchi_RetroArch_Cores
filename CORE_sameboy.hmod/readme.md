@@ -1,6 +1,6 @@
 -----------------------
 Name: SameBoy 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === SameBoy Core for RetroArch ===

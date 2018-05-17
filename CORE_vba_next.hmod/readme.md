@@ -1,6 +1,6 @@
 -----------------------
 Name: VBA Next 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === VBA Next core for RetroArch ===

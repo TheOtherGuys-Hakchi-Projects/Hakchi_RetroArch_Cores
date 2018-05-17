@@ -1,6 +1,6 @@
 -----------------------
 Name: CrocoDS 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === CrocoDS Core for RetroArch ===

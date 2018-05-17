@@ -1,6 +1,6 @@
 -----------------------
 Name: 2048 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === 2048 Core for RetroArch ===

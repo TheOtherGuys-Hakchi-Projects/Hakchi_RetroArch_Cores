@@ -1,6 +1,6 @@
 -----------------------
 Name: Dinothawr 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Dinothawr Core for RetroArch ===

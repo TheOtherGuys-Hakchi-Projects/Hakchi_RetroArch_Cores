@@ -1,6 +1,6 @@
 -----------------------
 Name: Atari 800 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Atari800 Module Core for RetroArch ===

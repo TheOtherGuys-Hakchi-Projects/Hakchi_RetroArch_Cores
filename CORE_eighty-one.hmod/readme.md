@@ -1,6 +1,6 @@
 -----------------------
 Name: Eighty-One 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Eighty-One Core for RetroArch ===

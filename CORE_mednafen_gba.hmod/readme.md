@@ -1,6 +1,6 @@
 -----------------------
 Name: Mednafen GBA 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mednafen GBA core for RetroArch ===

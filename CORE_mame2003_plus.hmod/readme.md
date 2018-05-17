@@ -1,6 +1,6 @@
 -----------------------
 Name: MAME 2003 Plus
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === MAME2003 Plus Experimental Core for RetroArch ===

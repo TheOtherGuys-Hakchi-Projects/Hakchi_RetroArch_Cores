@@ -1,6 +1,6 @@
 -----------------------
 Name: NX Engine 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Cave Story (NX Engine) Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: PocketCDG 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === PocketCDG Core for RetroArch ===

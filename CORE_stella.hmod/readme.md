@@ -1,6 +1,6 @@
 -----------------------
 Name: Stella 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Stella Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: BSNES (Mercury Performance)
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === BSNES Mercury Performance Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: REminiscence 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === REminiscence Core for RetroArch ===

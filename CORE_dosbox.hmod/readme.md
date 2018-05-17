@@ -1,6 +1,6 @@
 -----------------------
 Name: DOSBox 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === DOSBox Core for RetroArch ===

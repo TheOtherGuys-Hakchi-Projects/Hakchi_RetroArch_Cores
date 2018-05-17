@@ -1,6 +1,6 @@
 -----------------------
 Name: ScummVM 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === ScummVM Core for RetroArch ===

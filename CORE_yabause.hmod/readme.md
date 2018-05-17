@@ -1,6 +1,6 @@
 -----------------------
 Name: Yabause 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Yabause Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: MAME 2000 
-Creator: Libretro
+Creator: KMFDManic/gpstar/pcm
 Category: RetroArch Cores
 -----------------------
 === MAME 2000 Core for RetroArch ===

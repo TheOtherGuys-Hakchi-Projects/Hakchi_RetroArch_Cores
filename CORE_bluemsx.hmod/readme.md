@@ -1,6 +1,6 @@
 -----------------------
 Name: BlueMSX 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === BlueMSX Core for RetroArch ===

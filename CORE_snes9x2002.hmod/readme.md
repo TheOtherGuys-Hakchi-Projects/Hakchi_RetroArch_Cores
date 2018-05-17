@@ -1,6 +1,6 @@
 -----------------------
 Name: SNES9x2002 
-Creator: Libretro
+Creator: KMFDManic/madmonkey/gpstar/pcm
 Category: RetroArch Cores
 -----------------------
 === SNES9x2002 Core for RetroArch ===

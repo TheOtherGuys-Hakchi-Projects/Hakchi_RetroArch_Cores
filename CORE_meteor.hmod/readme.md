@@ -1,6 +1,6 @@
 -----------------------
 Name: Meteor 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Meteor Core for RetroArch ===

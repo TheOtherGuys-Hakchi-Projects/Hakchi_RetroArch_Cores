@@ -1,6 +1,6 @@
 -----------------------
 Name: TGB Dual 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === TGB Dual Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: Game & Watch 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === GW Core for RetroArch ===

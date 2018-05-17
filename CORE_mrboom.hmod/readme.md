@@ -1,6 +1,6 @@
 -----------------------
 Name: MrBoom 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === MrBoom Core for RetroArch ===

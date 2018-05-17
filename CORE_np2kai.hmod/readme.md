@@ -1,6 +1,6 @@
 -----------------------
 Name: NP2kai 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === NP2kai Core for RetroArch ===

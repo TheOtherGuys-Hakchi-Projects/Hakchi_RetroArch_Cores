@@ -1,6 +1,6 @@
 -----------------------
 Name: Vice x64 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Vice x64 core for RetroArch ===

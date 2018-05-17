@@ -1,6 +1,6 @@
 -----------------------
 Name: FreeINTV 
-Creator: Libretro/madmonkey
+Creator: KMFDManic/madmonkey
 Category: RetroArch Cores
 -----------------------
 === FreeINTV Core for RetroArch ===

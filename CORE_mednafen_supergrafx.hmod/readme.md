@@ -1,6 +1,6 @@
 -----------------------
 Name: Mednafen SuperGrafx 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mednafen SuperGrafx Core for RetroArch ===

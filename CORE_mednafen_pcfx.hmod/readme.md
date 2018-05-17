@@ -1,6 +1,6 @@
 -----------------------
 Name: Mednafen PC-FX 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === Mednafen/Beetle PC-FX Core for RetroArch ===

@@ -1,6 +1,6 @@
 -----------------------
 Name: GlupenN64 
-Creator: Libretro
+Creator: KMFDManic
 Category: RetroArch Cores
 -----------------------
 === GLupeN64 Core for RetroArch ===
