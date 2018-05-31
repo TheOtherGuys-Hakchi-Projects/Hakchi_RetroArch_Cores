@@ -3,7 +3,7 @@ Name: Desmume 2015 (Nintendo DS)
 Creator: Libretro
 Category: RetroArch Cores
 -----------------------
-=== Nintedo DS Core for RetroArch ===
+=== Nintendo DS Core for RetroArch ===
 
 Port of Nintendo DS/Desmume 2015 to libretro
 
