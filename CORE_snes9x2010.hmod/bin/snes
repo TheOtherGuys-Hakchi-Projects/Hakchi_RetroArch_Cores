@@ -35,4 +35,4 @@ if [ "$extension" = "sfrom" ]; then
   setFileName "$filename_str"
 fi
 
-exec retroarch-clover snes9x "$filename" "$@"
+exec retroarch-clover snes9x2010 "$filename" "$@"
