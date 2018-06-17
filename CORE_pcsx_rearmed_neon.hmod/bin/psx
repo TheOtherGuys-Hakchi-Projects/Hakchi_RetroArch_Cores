@@ -1,2 +1,7 @@
 #!/bin/sh
+
+echo "1" > "/proc/sys/vm/overcommit_memory"
+
+/etc/libretro/cache_buffer_clear_daemon &
+
 exec retroarch-clover pcsx_rearmed_neon "$@"
