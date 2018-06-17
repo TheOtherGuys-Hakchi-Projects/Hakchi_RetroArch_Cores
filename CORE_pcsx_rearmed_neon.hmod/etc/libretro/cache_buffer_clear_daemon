@@ -1,0 +1,12 @@
+#!/bin/sh
+
+while true
+do
+	echo "Clearing Memory Cache and inodes..."
+  echo 3 > /proc/sys/vm/drop_caches 
+	echo "Clearing Memory Buffers..."
+  sync
+  sleep 60
+done
+
+#pkill -f cache_buffer_clear_daemon when core is finished... Needs to be implemented in new NEO.
