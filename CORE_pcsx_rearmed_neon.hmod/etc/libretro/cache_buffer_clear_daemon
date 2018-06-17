@@ -9,4 +9,5 @@ do
   sleep 60
 done
 
-#pkill -f cache_buffer_clear_daemon when core is finished... Needs to be implemented in new NEO.
+#pkill -f cache_buffer_clear_daemon 
+#when core is finished... Needs to be implemented in new NEO.
