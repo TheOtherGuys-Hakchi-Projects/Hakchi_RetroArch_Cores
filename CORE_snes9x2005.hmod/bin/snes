@@ -17,9 +17,13 @@ setFileName "$1"
 shift
 
 tmppath="/tmp/rom"
-rm -rf "$tmppath"
-mkdir -p "$tmppath"
-cd "$tmppath"
+if [ -z "$(ls "$tmppath" | grep "$filebase")" ]; then
+  rm -rf "$tmppath"
+  mkdir -p "$tmppath"
+  cd "$tmppath"
+else
+  cd "$tmppath" && ls | grep -v "$filebase" | xargs rm
+fi
 
 if [ "$extension" = "7z" ]; then
   tiny7zx x "$filename"
